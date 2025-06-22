@@ -68,24 +68,6 @@
             aplikasi perangkat lunak dan pengembangan game, termasuk pemrograman
             dan desain game.
           </p>
-          <span
-            class="mt-2 inline-flex items-center gap-x-1.5 text-sm text-blue-600 decoration-2 group-hover:underline group-focus:underline font-medium"
-          >
-            <svg
-              class="shrink-0 size-4"
-              xmlns="http://www.w3.org/2000/svg"
-              width="24"
-              height="24"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              stroke-width="2"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-            >
-              <path d="m9 18 6-6-6-6" />
-            </svg>
-          </span>
         </div>
       </a>
       <!-- End Icon Block -->
@@ -135,25 +117,7 @@
             Teknik Jaringan Komputer dan Telekomunikasi mempersiapkan siswa
             untuk merancang, menginstal, dan memelihara jaringan komputer serta
             sistem telekomunikasi.
-          </p>
-          <span
-            class="mt-2 inline-flex items-center gap-x-1.5 text-sm text-blue-600 decoration-2 group-hover:underline group-focus:underline font-medium"
-          >
-            <svg
-              class="shrink-0 size-4"
-              xmlns="http://www.w3.org/2000/svg"
-              width="24"
-              height="24"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              stroke-width="2"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-            >
-              <path d="m9 18 6-6-6-6" />
-            </svg>
-          </span>
+          </p>          
         </div>
       </a>
       <!-- End Icon Block -->
@@ -207,24 +171,6 @@
             Teknik Sepeda Motor mengajarkan keterampilan dalam memperbaiki,
             merawat, dan memelihara sepeda motor.
           </p>
-          <span
-            class="mt-2 inline-flex items-center gap-x-1.5 text-sm text-blue-600 decoration-2 group-hover:underline group-focus:underline font-medium"
-          >
-            <svg
-              class="shrink-0 size-4"
-              xmlns="http://www.w3.org/2000/svg"
-              width="24"
-              height="24"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              stroke-width="2"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-            >
-              <path d="m9 18 6-6-6-6" />
-            </svg>
-          </span>
         </div>
       </a>
       <!-- End Icon Block -->
@@ -386,24 +332,6 @@
             untuk menciptakan dan mengolah gambar serta video sebagai media
             komunikasi visual.
           </p>
-          <span
-            class="mt-2 inline-flex items-center gap-x-1.5 text-sm text-blue-600 decoration-2 group-hover:underline group-focus:underline font-medium"
-          >
-            <svg
-              class="shrink-0 size-4"
-              xmlns="http://www.w3.org/2000/svg"
-              width="24"
-              height="24"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              stroke-width="2"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-            >
-              <path d="m9 18 6-6-6-6" />
-            </svg>
-          </span>
         </div>
       </a>
       <!-- End Icon Block -->
@@ -473,24 +401,6 @@
             Teknik Otomasi Industri mempelajari penerapan teknologi dalam sistem
             otomatisasi di industri manufaktur.
           </p>
-          <span
-            class="mt-2 inline-flex items-center gap-x-1.5 text-sm text-blue-600 decoration-2 group-hover:underline group-focus:underline font-medium"
-          >
-            <svg
-              class="shrink-0 size-4"
-              xmlns="http://www.w3.org/2000/svg"
-              width="24"
-              height="24"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              stroke-width="2"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-            >
-              <path d="m9 18 6-6-6-6" />
-            </svg>
-          </span>
         </div>
       </a>
       <!-- End Icon Block -->
